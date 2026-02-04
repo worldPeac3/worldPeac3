@@ -4,7 +4,7 @@
 </a>
 
 Entry-level **Network & Cybersecurity professional** with hands-on experience in system administration, SOC operations, and security monitoring.  
-University of Toronto Cybersecurity Bootcamp graduate,
+University of Toronto Cybersecurity Bootcamp graduate.
 ---
 
 ## 🔐 What I Do
