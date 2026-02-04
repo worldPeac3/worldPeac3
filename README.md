@@ -32,8 +32,43 @@ University of Toronto Cybersecurity Bootcamp graduate, actively pursuing **CompT
 | Case Management with TheHive                  | SOC Automation Lab|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
-## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
+## ## 🛠️ Tools
+
+### 🔐 Security & SOC
+- Security Onion  
+- Splunk  
+- Snort  
+- Wireshark  
+- Nmap  
+- Nessus  
+
+### 🖥️ Systems & Administration
+- Active Directory  
+- Group Policy  
+- SSH  
+- Patch Management  
+
+### 🌐 Networking
+- TCP/IP  
+- DNS / DHCP  
+- VLANs  
+- VPN  
+- Cisco IOS  
+
+### 🕵️ Digital Forensics
+- Autopsy  
+- FTK Imager  
+- ExifTool  
+
+### 💻 Virtualization & Cloud
+- VirtualBox  
+- VMware  
+- Azure Fundamentals  
+
+### 🧾 Scripting
+- Bash  
+- PowerShell  
+
 
 ### Network
 <div>
@@ -58,12 +93,10 @@ University of Toronto Cybersecurity Bootcamp graduate, actively pursuing **CompT
 ## Certifications
 [Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
-</div>
+c
+<img src="https://img.shields.io/badge/-CCNA-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
+<img src="https://img.shields.io/badge/-Security%2B-EA1D2C?style=for-the-badge&logo=CompTIA&logoColor=white" />
+
 
 ## Projects
 - Detection Lab
